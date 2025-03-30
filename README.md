@@ -56,13 +56,12 @@ streamlit run app.py
 ```
 
 ## 🌍 Deployment Link
-🔗 **Live Demo:** [Click Here](https://my-crypto-tracker.streamlit.app/)  
+🔗 **Live Demo:** [Click Here](http://localhost:8501/)  
 
 ## 🔗 GitHub Repository
-📂 **Repo:** [Crypto Portfolio Tracker](https://github.com/yourusername/crypto-portfolio-tracker)  
+📂 **Repo:** [Crypto Portfolio Tracker](https://github.com/IBRAHIMBHATTI2604/CRYPTO-PORTFOLIO-TRACKER-)  
 
-## 📸 Screenshots & Demo
-_(Include relevant screenshots or a short video demo here)_  
+
 
 ## 📜 License
 This project is licensed under the **MIT License**.  
